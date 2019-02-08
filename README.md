@@ -1,7 +1,10 @@
  <div align="center">
  
  # 📢 10 Steps to Become a Data Scientist
+ # CLEAR DATA. MADE MODEL.
  ### 💻💾📓✒📊
+ ### Hello- Привет - Hallo - Bonjour - سلام - नमस्ते - 你好 - مرحبا - 여보세요 - Ciao - Hola  
+ #### 15/01/2019
  
  </div>
  
@@ -232,11 +235,11 @@ for Reading this section **please** fork   this kernel:
 
 I hope you have enjoyed reading my python notebook.
 
-If you have any problem and question to run notebook please open an issue here in github.
+If you have any problem and question to run notebook please open an issue here in GitHub.
 
 for most of the my notebook you need **dataset** as input.
 
-To use the **correct data**, please **download** the dat set from  the **Kaggle** site and put it in your notebook folder.
+To use the **correct data**, please **download** the data set from  the **Kaggle** site and put it in your notebook folder.
 
 **Mj Bhamnai**
 
@@ -257,3 +260,5 @@ If you use my code in your research, please cite this project.
 > ###### 1. Follow me On [GitHub](https://github.com/mjbahmani/)
  
 > ###### 2. Follow me On [Kaggle](https://www.kaggle.com/mjbahmani)
+
+> ###### 3. Follow me On [linkedin](https://www.linkedin.com/company/irmatlab/)
